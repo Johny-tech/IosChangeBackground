@@ -5,7 +5,7 @@ Submitted by: **Rustambek Kholamtov**
 
 **Rustam** is an app that changes the background of the app with the changes to the button!
 
-Time spent: **5** hours spent in total
+Time spent: **1** hours spent in total
 
 ## Required Features
 
