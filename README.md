@@ -18,14 +18,12 @@ The following **required** functionality is completed:
 
 Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
 
-<div>
     <a href="https://www.loom.com/share/f60f45022e614eeb8528286426e6c34b">
     
     </a>
     <a href="https://www.loom.com/share/f60f45022e614eeb8528286426e6c34b">
       <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/f60f45022e614eeb8528286426e6c34b-with-play.gif">
     </a>
-  </div>.
 
 ## App Brainstorming (Step 4)
 - Notion
