@@ -3,7 +3,7 @@
 
 Submitted by: **Rustambek Kholamtov**
 
-**Name of your app** is an app that... [TODO] 
+**Rustam** is an app that changes the background of the app with the changes to the button!
 
 Time spent: **X** hours spent in total
 
@@ -21,10 +21,19 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 [Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
 
 ## App Brainstorming (Step 4)
+Notion
+   - [ ] Multifunctional features of the app.
+   - [ ] Multiplatform
+   - [ ] UI editable
+TikTok
+   - [ ] Simple UI design
+   - [ ] Smart Recommendation Engine
+   - [ ] Fast
+         
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+The instructions were fine ,  but in instuctions there was little visulaisations which made a little hard to undesrstand but the rest is easyw
 
 ## License
 
